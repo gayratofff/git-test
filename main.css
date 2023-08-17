@@ -1,0 +1,30 @@
+p{
+    background: gray;
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 30px 20px;
+    margin: 25px 35px;
+    transition: 1s;
+}
+#ggg{
+    width: 400px;
+    height: 100px;
+    background: linear-gradient(37deg,black,green);
+}
+.www{
+    width: 100px;
+    height: 100px;
+    background: rgba(0, 0, 0, 0.419);
+    margin: auto;
+    border-radius: 40px;
+    color: red;
+    overflow: hidden;
+}
+p:hover{
+    background: black;
+    text-align: right;
+}
